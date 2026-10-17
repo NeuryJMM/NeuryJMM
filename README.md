@@ -28,7 +28,7 @@ Mi trabajo se centra en entornos técnicos controlados donde puedo:
 - Resolver fallas;
 - Documentar qué funcionó, qué falló y por qué.
 
-Actualmente cuento con las certificaciones **Fortinet FCF y FCA**, y los niveles **NSE 1, NSE 2 y NSE 3**, y me estoy formando hacia **Security Engineering** con una especialización a largo plazo en **Defensive Security / Blue Team / InfoSec]**.
+I currently hold the **Fortinet FCF and FCA NSE 1, NSE 2, and NSE 3 in Certified in Cybersecurity** certifications. I am pursuing a career in Security Engineering, with a long-term specialization in **Defensive Security / Blue Team / InfoSec**.
 
 <br clear="right">
 
@@ -58,17 +58,18 @@ Comandos y laboratorios documentados durante los módulos de la materia:
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Laboratorios Fortinet
+### 🔐 Cybersecurity labs
 
-Laboratorios sobre seguridad de red con productos Fortinet:
+Laboratorios sobre ciberseguridad de:
 
-- Políticas de firewall
-- NAT y rutas
-- VPN IPsec
-- Perfiles de seguridad
-- Logs y monitoreo
+- Dictionary attacks
+- Linux security
+- Defensive analysis
+- Cross Site Scripting
+- SQL Inyection
+- Malicious PDF
 
-**Muestra:** Network Security · Fortinet · Firewalling · VPN
+**Shows:** WebApp Security · Ethical Hacking · Tampering · Docker Compose / Dockerfile
 
 [**OPEN REPOSITORY →**](https://github.com/NeuryJMM/TU-REPO-FORTINET)
 
@@ -77,14 +78,12 @@ Laboratorios sobre seguridad de red con productos Fortinet:
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Nombre de tu proyecto 3]
+### 🛡️ Networking labs
 
 Descripción corta de lo que haces en este proyecto:
 
-- punto 1
-- punto 2
-- punto 3
-- punto 4
+- Configuración a nivel empresarial con  utilizando VLANs, EtherChannel
+(LACP), OSPF, ACLs, NAT/PAT y DHCP/DNS.
 
 **Muestra:** Skill 1 · Skill 2 · Skill 3
 
@@ -93,16 +92,18 @@ Descripción corta de lo que haces en este proyecto:
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Nombre de tu proyecto 4]
+### 🌐 Windows Server 2022 Security lab
 
 Descripción corta de lo que haces en este proyecto:
 
-- punto 1
-- punto 2
-- punto 3
-- punto 4
+- DNSSEC
+- LAPS y Visor de Eventos
+- Credential Guard / Block USB
+- Bloqueo NTLM
+- Encriptación Bitlocker a PC Servidor y Cliente
+- Instalación y configuración de Active Directory
 
-**Muestra:** Skill 1 · Skill 2 · Skill 3
+**Muestra:** Windows Security · AD · Vulnerability Management · Infrastructure Security
 
 [**OPEN REPOSITORY →**](https://github.com/NeuryJMM/TU-REPO-4)
 
@@ -175,11 +176,10 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 </div>
 
-> Edita cada sección con las herramientas que **realmente** has usado.
 
 ---
 
-## `> certifications`
+## `> certifications and courses`
 
 ### Cybersecurity
 
@@ -200,7 +200,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 - Cisco Networking / CCNA training
 - CyberOps Associate / Cisco Networking
 
-> Las certificaciones aportan contexto. El portafolio se mantiene enfocado en trabajo práctico, laboratorios y evidencia técnica.
+> Las certificaciones y cursos aportan contexto a la formación. El portafolio se mantiene enfocado en trabajo práctico, laboratorios y evidencia técnica.
 
 ---
 
@@ -223,7 +223,7 @@ Offensive_security:
   - Penetration_testing
 ```
 
-Estas son **áreas de desarrollo y metas profesionales**, no afirmaciones de dominio a nivel profesional.
+Estas son **áreas de desarrollo y metas profesionales a nivel académico**, no afirmaciones de dominio a nivel profesional pero me encuentro en formación constante.
 
 ---
 
@@ -245,7 +245,7 @@ Estas son **áreas de desarrollo y metas profesionales**, no afirmaciones de dom
 
 Documento mi trabajo técnico, laboratorios y demostraciones.
 
-`Troubleshooting` · `Technical Documentation` · `Lab Design` · `Communication` · `Security Analysis`
+`Troubleshooting` · `Technical Documentation` · `Lab Design` · `Ethical Assessment` · `Security Analysis`
 
 ---
 
