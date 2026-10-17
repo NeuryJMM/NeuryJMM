@@ -85,7 +85,7 @@ Descripción corta de lo que haces en este proyecto:
 - Configuración a nivel empresarial con  utilizando VLANs, EtherChannel
 (LACP), OSPF, ACLs, NAT/PAT y DHCP/DNS.
 
-**Muestra:** Skill 1 · Skill 2 · Skill 3
+**Muestra:** Network Security · Network Management · Network Protocols
 
 [**OPEN REPOSITORY →**](https://github.com/NeuryJMM/TU-REPO-3)
 
