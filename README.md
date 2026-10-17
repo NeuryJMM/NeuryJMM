@@ -252,8 +252,8 @@ Documento mi trabajo técnico, laboratorios y demostraciones.
 ## `> languages`
 
 ```text
-Español   ██████████████████  Native
-Inglés    ████████████░░░  Technical / Intermediate
+Spanish   ██████████████████  Native
+English    ████████████░░░  Technical / Intermediate
 ```
 
 ---
