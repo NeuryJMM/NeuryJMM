@@ -28,7 +28,7 @@ Mi trabajo se centra en entornos técnicos controlados donde puedo:
 - Resolver fallas;
 - Documentar qué funcionó, qué falló y por qué.
 
-I currently hold the **Fortinet FCF and FCA NSE 1, NSE 2, and NSE 3 in Certified in Cybersecurity** certifications. I am pursuing a career in Security Engineering, with a long-term specialization in **Defensive Security / Blue Team / InfoSec**.
+Actualmente cuento con las certificaciones **Fortinet FCF, FCA, NSE 1, NSE 2 y NSE 3 Certified in Cybersecurity**. Me estoy formando para desarrollar una carrera en Ingeniería de Seguridad (Security Engineering), con una especialización a largo plazo en Seguridad Defensiva / Blue Team / Seguridad de la Información (InfoSec).
 
 <br clear="right">
 
