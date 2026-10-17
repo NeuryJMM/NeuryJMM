@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33607910/README.md)
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Neury Montero" width="100%">
