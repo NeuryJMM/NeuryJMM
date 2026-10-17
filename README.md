@@ -253,7 +253,7 @@ Documento mi trabajo técnico, laboratorios y demostraciones.
 
 ```text
 Español   ██████████████████  Native
-Inglés    ████████████░░░  B2 / Advanced
+Inglés    ████████████░░░  Technical / Intermediate
 ```
 
 ---
