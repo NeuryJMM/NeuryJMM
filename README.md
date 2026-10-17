@@ -4,10 +4,10 @@
 
 # Neury Jorge Montero Mejía
 
-**Estudiante de Ciberseguridad · Infraestructura · Seguridad de Redes · Seguridad Ofensiva**
+**Estudiante de Ciberseguridad · Infraestructura · Seguridad de Redes · Seguridad Defensiva**
 
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-NEURY%20MONTERO-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@TU-CANAL"><img src="https://img.shields.io/badge/YOUTUBE-CONTENIDO%20TÉCNICO-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.linkedin.com/in/neuryjmm"><img src="https://img.shields.io/badge/LINKEDIN-NEURY%20MONTERO-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/@neuryjmm"><img src="https://img.shields.io/badge/YOUTUBE-CONTENIDO%20TÉCNICO-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 </div>
 
@@ -21,14 +21,14 @@ Estudiante de ciberseguridad en el **ITLA**, construyendo una base práctica en 
 
 Mi trabajo se centra en entornos técnicos controlados donde puedo:
 
-- construir sistemas y redes;
-- endurecer (hardening) infraestructura;
-- probar técnicas de ataque de forma segura;
-- inspeccionar evidencias y eventos de seguridad;
-- resolver fallas;
-- documentar qué funcionó, qué falló y por qué.
+- Construir sistemas y redes;
+- Endurecer (hardening) infraestructura;
+- Probar técnicas de ataque de forma segura;
+- Inspeccionar evidencias y eventos de seguridad;
+- Resolver fallas;
+- Documentar qué funcionó, qué falló y por qué.
 
-Actualmente cuento con las certificaciones **Fortinet FCF y FCA**, y los niveles **NSE 1, NSE 2 y NSE 3**, y me estoy formando hacia **Security Engineering** con una especialización a largo plazo en **[TU META: p. ej. Offensive Security / Red Team / Network Security]**.
+Actualmente cuento con las certificaciones **Fortinet FCF y FCA**, y los niveles **NSE 1, NSE 2 y NSE 3**, y me estoy formando hacia **Security Engineering** con una especialización a largo plazo en **Defensive Security / Blue Team / InfoSec]**.
 
 <br clear="right">
 
@@ -44,12 +44,12 @@ Actualmente cuento con las certificaciones **Fortinet FCF y FCA**, y los niveles
 
 Comandos y laboratorios documentados durante los módulos de la materia:
 
-- administración de usuarios y permisos
-- gestión de paquetes y servicios
-- redes en Linux
-- almacenamiento y particiones
-- scripting en Bash
-- hardening básico
+- Administración de usuarios y permisos
+- Gestión de paquetes y servicios
+- Redes en Linux
+- Almacenamiento y particiones
+- Scripting en Bash
+- Hardening básico
 
 **Muestra:** Linux · RHEL · Administración de sistemas · Documentación
 
@@ -62,11 +62,11 @@ Comandos y laboratorios documentados durante los módulos de la materia:
 
 Laboratorios sobre seguridad de red con productos Fortinet:
 
-- políticas de firewall
+- Políticas de firewall
 - NAT y rutas
 - VPN IPsec
-- perfiles de seguridad
-- logs y monitoreo
+- Perfiles de seguridad
+- Logs y monitoreo
 
 **Muestra:** Network Security · Fortinet · Firewalling · VPN
 
@@ -116,7 +116,7 @@ Descripción corta de lo que haces en este proyecto:
 
 <img src="./assets/lifecycle.svg" alt="Security Lifecycle" width="100%">
 
-Quiero entender el ciclo completo, no solo las herramientas individuales:
+Me interesa comprender el ciclo completo, no solo una herramienta:
 
 ```text
 BUILD -> CONFIGURE -> HARDEN -> TEST
@@ -138,7 +138,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 ![Wireshark](https://img.shields.io/badge/Wireshark-1f2937?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Fortinet](https://img.shields.io/badge/Fortinet-1f2937?style=for-the-badge&logo=fortinet&logoColor=EE3124)
 
-<sub>Security Engineering · Wazuh · SIEM · Vulnerability Assessment · Network Analysis · System Hardening · Access Control</sub>
+<sub>Security Engineering · Wazuh · SIEM · Vulnerability Assessment · Network Analysis · System Hardening · Vulnerability Management</sub>
 
 **02 // SYSTEMS & INFRASTRUCTURE**
 
@@ -183,15 +183,22 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 ### Cybersecurity
 
-- **Fortinet Certified Fundamentals (FCF)**
-- **Fortinet Certified Associate (FCA)**
-- Fortinet NSE 1
-- Fortinet NSE 2
-- Fortinet NSE 3
+- Fortinet Certified Fundamentals (FCF)
+- Fortinet Certified Associate (FCA)
+- Fortinet NSE 1 Certified in Cybersecurity
+- Fortinet NSE 2 Certified in Cybersecurity
+- Fortinet NSE 3 Certified in Cybersecurity
+- Ciberseguridad de Google
+- Ciberseguridad Nivel Avanzado / INDOTEL
+
+### Cloud
+- AWS Cloud Practitioner Essentials / Cloud training
+- AWS Cloud Fundamentals / Cloud training
 
 ### Networking & Systems
 
-- [Agrega aquí: Linux / RHEL, Cisco, etc.]
+- Cisco Networking / CCNA training
+- CyberOps Associate / Cisco Networking
 
 > Las certificaciones aportan contexto. El portafolio se mantiene enfocado en trabajo práctico, laboratorios y evidencia técnica.
 
@@ -200,20 +207,20 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 ## `> current_growth`
 
 ```yaml
-security_engineering:
-  - network_security
-  - firewall_management
-  - infrastructure_hardening
-  - vulnerability_management
-  - detection_and_monitoring
-  - automation
+Security_engineering:
+  - Network_security
+  - Firewall_management
+  - Infrastructure_hardening
+  - Vulnerability_management
+  - Detection_and_monitoring
+  - Automation
 
-offensive_security:
-  - reconnaissance
-  - enumeration
-  - linux_privilege_escalation
-  - web_security
-  - penetration_testing
+Offensive_security:
+  - Reconnaissance
+  - Enumeration
+  - Linux_privilege_escalation
+  - Web_security
+  - Penetration_testing
 ```
 
 Estas son **áreas de desarrollo y metas profesionales**, no afirmaciones de dominio a nivel profesional.
@@ -228,7 +235,7 @@ Estas son **áreas de desarrollo y metas profesionales**, no afirmaciones de dom
 
 <br>
 
-<a href="https://github.com/NeuryJMM"><img src="https://img.shields.io/badge/VIEW%20LIVE%20ACTIVITY-GITHUB-4df0cf?style=flat-square&labelColor=0b1118" alt="Activity"></a>
+<a href="https://github.com/NeuryJMM"><img src="https://img.shields.io/badge/VIEW%20LIVE%20ACTIVITY-GITHUB-4df0cf?style=flat-square&labelColor=0A1A12" alt="Activity"></a>
 
 </div>
 
@@ -236,7 +243,7 @@ Estas son **áreas de desarrollo y metas profesionales**, no afirmaciones de dom
 
 ## `> technical_communication`
 
-Documento mi trabajo técnico, laboratorios y demostraciones. <!-- Si no tienes YouTube, borra esta sección -->
+Documento mi trabajo técnico, laboratorios y demostraciones.
 
 `Troubleshooting` · `Technical Documentation` · `Lab Design` · `Communication` · `Security Analysis`
 
@@ -245,8 +252,8 @@ Documento mi trabajo técnico, laboratorios y demostraciones. <!-- Si no tienes 
 ## `> languages`
 
 ```text
-Español   ██████████████████  Nativo
-Inglés    █████████████░░░  [TU NIVEL: B2 / Advanced]
+Español   ██████████████████  Native
+Inglés    ████████████░░░  B2 / Advanced
 ```
 
 ---
@@ -255,9 +262,9 @@ Inglés    █████████████░░░  [TU NIVEL: B2 / Adv
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/neuryjmm"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/NeuryJMM"><img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.youtube.com/@TU-CANAL"><img src="https://img.shields.io/badge/YOUTUBE-LABS%20%26%20DEMOS-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.youtube.com/@neuryjmm"><img src="https://img.shields.io/badge/YOUTUBE-LABS%20%26%20DEMOS-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 ### Entender el sistema. Asegurar el sistema. Probar el sistema.
 
