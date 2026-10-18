@@ -49,7 +49,7 @@ Comandos y laboratorios documentados durante los módulos de la materia:
 - Redes en Linux
 - Almacenamiento y particiones
 - Scripting en Bash
-- Hardening básico
+- VoIP e IaC
 
 **Muestra:** Linux · RHEL · Administración de sistemas · Documentación
 
