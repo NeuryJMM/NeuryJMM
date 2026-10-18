@@ -60,7 +60,7 @@ Comandos y laboratorios documentados durante los módulos de la materia:
 
 ### 🔐 Cybersecurity labs
 
-Laboratorios sobre ciberseguridad de:
+Laboratorios de ciberseguridad sobre:
 
 - Dictionary attacks
 - Linux security
@@ -85,7 +85,7 @@ Descripción corta de lo que haces en este proyecto:
 - Configuración a nivel empresarial con  utilizando VLANs, EtherChannel
 (LACP), OSPF, ACLs, NAT/PAT y DHCP/DNS.
 
-**Muestra:** Network Security · Network Management · Network Protocols
+**Shows:** Network Security · Network Management · Network Protocols
 
 [**OPEN REPOSITORY →**](https://github.com/NeuryJMM/TU-REPO-3)
 
@@ -103,7 +103,7 @@ Descripción corta de lo que haces en este proyecto:
 - Encriptación Bitlocker a PC Servidor y Cliente
 - Instalación y configuración de Active Directory
 
-**Muestra:** Windows Security · AD · Vulnerability Management · Infrastructure Security
+**Shows:** Windows Security · AD · Vulnerability Management · Infrastructure Security
 
 [**OPEN REPOSITORY →**](https://github.com/NeuryJMM/TU-REPO-4)
 
@@ -172,7 +172,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 <sub>Reconnaissance · Enumeration · Web Security · Penetration Testing</sub>
 
-`[ NETWORK SECURITY ] READY // [ OFFENSIVE SECURITY ] BUILDING`
+`[ NETWORK SECURITY ] [ OFFENSIVE SECURITY ] [ DEFENSIVE SECURITY ] [ CLOUD COMPUTING ]`
 
 </div>
 
@@ -200,7 +200,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 - Cisco Networking / CCNA training
 - CyberOps Associate / Cisco Networking
 
-> Las certificaciones y cursos aportan contexto a la formación. El portafolio se mantiene enfocado en trabajo práctico, laboratorios y evidencia técnica.
+> Las certificaciones y cursos aportan contexto a la formación teórico/práctica. El portafolio se mantiene un esquema en trabajo práctico, laboratorios y evidencia técnica.
 
 ---
 
@@ -223,7 +223,7 @@ Offensive_security:
   - Penetration_testing
 ```
 
-Estas son **áreas de desarrollo y metas profesionales a nivel académico**, no afirmaciones de dominio a nivel profesional pero me encuentro en formación constante.
+Estas son **áreas de desarrollo y metas profesionales a nivel académico**, no afirmaciones de dominio a nivel profesional, no obstante, me encuentro en formación constante.
 
 ---
 
@@ -268,6 +268,6 @@ English   █████████████░░░  Technical / Intermed
 
 ### Entender el sistema. Asegurar el sistema. Probar el sistema.
 
-`Networking` · `Systems` · `Infrastructure` · `Cybersecurity` · `Network Security`
+`Networking` · `Systems Administration` · `Infrastructure` · `Cybersecurity` · `Network Security` · `Cloud Computing`
 
 </div>
