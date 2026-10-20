@@ -188,6 +188,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 - Fortinet NSE 1 Certified in Cybersecurity
 - Fortinet NSE 2 Certified in Cybersecurity
 - Fortinet NSE 3 Certified in Cybersecurity
+- Cybersecurity Certification Expert (CCE) - Certiplus
 - Ciberseguridad de Google
 - Ciberseguridad Nivel Avanzado / INDOTEL
 
