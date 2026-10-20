@@ -51,7 +51,7 @@ Comandos y laboratorios documentados durante los módulos de la materia:
 - Scripting en Bash
 - VoIP e IaC
 
-**Muestra:** Linux · RHEL · Administración de sistemas · Documentación
+**Shows:** Linux · RHEL · Systems Administration · Documentation
 
 [**OPEN REPOSITORY →**](https://github.com/NeuryJMM/Comandos-usados-Modulo1)
 
