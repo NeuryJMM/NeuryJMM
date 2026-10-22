@@ -80,7 +80,7 @@ Laboratorios de ciberseguridad sobre:
 
 ### 🛡️ Networking labs
 
-Descripción corta de lo que haces en este proyecto:
+Red empresarial implementada en PNETLab:
 
 - Configuración a nivel empresarial con  utilizando VLANs, EtherChannel
 (LACP), OSPF, ACLs, NAT/PAT y DHCP/DNS.
@@ -94,7 +94,7 @@ Descripción corta de lo que haces en este proyecto:
 
 ### 🌐 Windows Server 2022 Security lab
 
-Descripción corta de lo que haces en este proyecto:
+Configuraciones de seguridad y análisis de vulnerabilidades en Windows Server 2022:
 
 - DNSSEC
 - LAPS y Visor de Eventos
