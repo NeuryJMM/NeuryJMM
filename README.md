@@ -87,7 +87,7 @@ Descripción corta de lo que haces en este proyecto:
 
 **Shows:** Network Security · Network Management · Network Protocols
 
-[**OPEN REPOSITORY →**](https://github.com/NeuryJMM/TU-REPO-3)
+[**OPEN REPOSITORY →**](https://github.com/NeuryJMM/networking-labs)
 
 </td>
 <td width="50%" valign="top">
