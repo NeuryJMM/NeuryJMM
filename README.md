@@ -71,7 +71,7 @@ Laboratorios de ciberseguridad sobre:
 
 **Shows:** WebApp Security · Ethical Hacking · Tampering · Docker Compose / Dockerfile
 
-[**OPEN REPOSITORY →**](https://github.com/NeuryJMM/TU-REPO-FORTINET)
+[**OPEN REPOSITORY →**](https://github.com/NeuryJMM/cybersecurity-labs)
 
 </td>
 </tr>
