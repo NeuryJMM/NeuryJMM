@@ -78,7 +78,7 @@ Laboratorios de ciberseguridad sobre:
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Networking labs
+### <sub><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="26" height="26"/></sub> Networking labs
 
 Red empresarial implementada en PNETLab:
 
