@@ -92,7 +92,7 @@ Red empresarial implementada en PNETLab:
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" width="22" height="22"/> Windows Server 2022 Security lab
+<img src="https://cdn.simpleicons.org/windows/0078D4" width="24" height="24"/> Windows Server 2022 Security lab
 
 Configuraciones de seguridad y análisis de vulnerabilidades en Windows Server 2022:
 
