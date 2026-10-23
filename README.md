@@ -53,7 +53,7 @@ Comandos y laboratorios documentados durante los módulos de la materia:
 
 **Shows:** Linux · RHEL · Systems Administration · Documentation
 
-[**OPEN REPOSITORY →**](https://github.com/NeuryJMM/Comandos-usados-Modulo1)
+[**OPEN REPOSITORY →**](https://github.com/NeuryJMM/linux-rhel-sistemas-operativos)
 
 </td>
 <td width="50%" valign="top">
