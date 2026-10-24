@@ -63,7 +63,6 @@ Comandos y laboratorios documentados durante los módulos de la materia:
 Laboratorios de ciberseguridad sobre:
 
 - Dictionary attacks
-- Linux security
 - Defensive analysis
 - Cross Site Scripting
 - SQL Inyection
