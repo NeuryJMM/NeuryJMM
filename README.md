@@ -82,7 +82,7 @@ Laboratorios de ciberseguridad sobre:
 Red empresarial implementada en PNETLab:
 
 - Configuración a nivel empresarial utilizando VLANs, EtherChannel
-(LACP), HSRP OSPF, ACLs, NAT/PAT, VPN ( DMVPN ISAKMP, NHRP, GRE) y DHCP/DNS.
+(LACP), HSRP, OSPF, ACLs, NAT/PAT, VPN ( DMVPN ISAKMP, NHRP, GRE) y DHCP/DNS.
 
 **Shows:** Network Security · Network Management · Network Protocols
 
