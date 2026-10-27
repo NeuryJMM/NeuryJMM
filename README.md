@@ -42,7 +42,7 @@ Actualmente cuento con las certificaciones **Fortinet FCF, FCA, NSE 1, NSE 2, NS
 
 ### 🐧 Linux / RHEL — Sistemas Operativos
 
-Comandos y laboratorios documentados durante los módulos de las materias Sistemas Operativos 3 y Seguridad de Sistemas Operativos. Repo (SysAdmin):
+Comandos y laboratorios documentados durante los módulos de las materias Sistemas Operativos 3 y Seguridad de Sistemas Operativos. Repo SysAdmin:
 
 - Administración de usuarios y permisos
 - Gestión de paquetes y servicios
