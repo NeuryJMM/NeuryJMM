@@ -195,6 +195,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 - Fortinet NSE 2 Certified in Cybersecurity
 - Fortinet NSE 3 Certified in Cybersecurity
 - Cybersecurity Certification Expert (CCE) - Certiplus
+- Diplomado de Ciberseguridad, Ciberdefensa y Protección de Datos / CNCS
 - Ciberseguridad de Google
 - Ciberseguridad Nivel Avanzado / INDOTEL
 
@@ -206,6 +207,10 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 - Cisco Networking / CCNA training
 - CyberOps Associate / Cisco Networking
+
+### AI
+
+- AI Agent Manager / Certiprof (In training)
 
 > Las certificaciones y cursos aportan contexto a la formación teórico/práctica. El portafolio se mantiene un esquema en trabajo práctico, laboratorios y evidencia técnica.
 
