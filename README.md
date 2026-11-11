@@ -210,7 +210,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 ### AI
 
-- AI Agent Manager / Certiprof (In training)
+- AI Agent Manager Professional Certification / Certiprof (In training)
 
 > Las certificaciones y cursos aportan contexto a la formación teórico/práctica. El portafolio se mantiene un esquema en trabajo práctico, laboratorios y evidencia técnica.
 
