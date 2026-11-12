@@ -28,7 +28,7 @@ Mi trabajo se centra en entornos técnicos controlados donde puedo:
 - Resolver fallas;
 - Documentar qué funcionó, qué falló y por qué.
 
-Actualmente cuento con las certificaciones **Fortinet FCF, FCA, NSE 1, NSE 2, NSE 3 Certified in Cybersecurity y Cybersecurity Certification Expert de Certiplus** y me estoy preparando para la **AI Agent Manager Professional Certification de Certiprof**. Me estoy formando para desarrollar una carrera en Ingeniería de Seguridad (Security Engineering), con una especialización a largo plazo en Seguridad Defensiva / Blue Team / Seguridad de la Información (InfoSec) y GRC.
+Actualmente cuento con las certificaciones **Fortinet FCF, FCA, NSE 1, NSE 2, NSE 3 Certified in Cybersecurity, Cybersecurity Certification Expert de Certiplus** y **AI Agent Manager Professional Certification de Certiprof**. Me estoy formando para desarrollar una carrera en Ingeniería de Seguridad (Security Engineering), con una especialización a largo plazo en Seguridad Defensiva / Blue Team / Seguridad de la Información (InfoSec) y GRC.
 
 <br clear="right">
 
@@ -210,7 +210,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 ### AI
 
-- AI Agent Manager Professional Certification / Certiprof (in progress)
+- AI Agent Manager Professional Certification AIAM™ / Certiprof
 
 > Las certificaciones y cursos aportan contexto a la formación teórico/práctica. El portafolio se mantiene un esquema en trabajo práctico, laboratorios y evidencia técnica.
 
